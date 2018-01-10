@@ -22,7 +22,7 @@ if [ "${1}" == "switch" ]; then
     SITE=$2 yarn $3
   fi
 elif [ "${1}" == "init" ]; then
-  react-native init $2 --template file:///Volumes/Extra/Packages/react-native-template-sphere
+  react-native init $2 --template sphere
   if [ -d "${2}" ]; then
     cd ${2}
     node scripts/addDevDependencies.js

@@ -1,8 +1,10 @@
 {
   "name": "react-sphere",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Utils for react sphere",
-  "bin": "./cli.sh",
+  "bin": {
+    "react-sphere": "./cli.sh"
+  },
   "keywords": [
     "react-sphere",
     "multiple",
@@ -16,5 +18,19 @@
     "fs-extra": "^5.0.0",
     "commander": "2.12.2",
     "eslint": "4.15.0"
-  }
+  },
+  "main": "cli.sh",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shameemz/react-sphere.git"
+  },
+  "author": "Shameem",
+  "bugs": {
+    "url": "https://github.com/shameemz/react-sphere/issues"
+  },
+  "homepage": "https://github.com/shameemz/react-sphere#readme"
 }
