@@ -39,8 +39,7 @@ Idea inspired from [Leland Richardson](https://github.com/lelandrichardson) talk
             "d-fr": {"Device": "Desktop", "Site": "Fr" },
             "d-com": {"Device": "Desktop", "Site": "Com"},
             "default": {"Device": null, "Site": "Com"}
-          },
-          "hash": "testing12 3ss3"
+          }
         }]
       ]
     }
