@@ -1,0 +1,20 @@
+{
+  "name": "react-sphere",
+  "version": "0.0.2",
+  "description": "Utils for react sphere",
+  "bin": "./cli.sh",
+  "keywords": [
+    "react-sphere",
+    "multiple",
+    "sites"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "lodash": "^4.17.4",
+    "terminal-notifier": "^0.1.2",
+    "fs-extra": "^5.0.0",
+    "commander": "2.12.2",
+    "eslint": "4.15.0"
+  }
+}
