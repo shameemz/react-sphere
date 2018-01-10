@@ -24,7 +24,7 @@ Idea inspired from [Leland Richardson](https://github.com/lelandrichardson) talk
 
 ## Usage
 - Configure the sites in .babelrc file, like below.
-    ```
+    ```json
     {
       "presets": [
         "react-native"
