@@ -81,6 +81,13 @@ Idea inspired from [Leland Richardson](https://github.com/lelandrichardson) talk
 - [re-start](https://github.com/react-everywhere/re-start)
 - [react-xp](https://microsoft.github.io/reactxp/)
 
+### IDE
+VScode users can start the project as 
+```
+SITE=m-fr code project_name  
+```
+[Create VScode Alias](https://code.visualstudio.com/docs/editor/command-line)
+
 [status-image]: https://img.shields.io/badge/status-maintained-brightgreen.svg
 [status-url]: https://github.com/shameemz/react-sphere
 
